@@ -1,6 +1,7 @@
 ## Welcome to Zhichen's Pages
 
-Zhichen Zhao 赵致辰  
+Zhichen Zhao   
+赵致辰  
 Megvii-Inc
 
 ### Contact
@@ -13,16 +14,20 @@ __2014.09-2017.07:__ Department of Electronic Engineering in Tsinghua University
 __2010.08-2014.07:__ Department of Electronic Engineering in Tsinghua University, for bachelor degree.
 
 ### Publications
-`__Single Image Action Recognition using Semantic Body Part Actions__`  
+__Single Image Action Recognition using Semantic Body Part Actions__  
 Zhichen Zhao, Huimin Ma and Shaodi You  
 _International Conference on Computer Vision (ICCV2017)_  
 paper | project page  
 
-`__Generalized Symmetric Pair Model for Action Recognition in Still Images__`  
+__Generalized Symmetric Pair Model for Action Recognition in Still Images__  
 Zhichen Zhao, Huimin Ma and Xiaozhi Chen  
 _Pattern Recognition, Volume 64, April 2017, Pages 347-360_  
 paper
 
+__Multi-scale Candidate Combination for Action Recognition__  
+Zhichen Zhao, Huimin Ma and Xiaozhi Chen  
+_International Conference on Image Processing (ICIP2016)_  
+paper
 
 
 You can use the [editor on GitHub](https://github.com/ZhichenZhao/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
