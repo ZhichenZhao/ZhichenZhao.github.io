@@ -5,7 +5,7 @@ Zhichen Zhao
 Megvii-Inc
 
 ### Contact
-zhaozhichen@megvii.com
+zhaozhichen.water@bytedance.com
 
 ### Experience
 __since 2018.09:__ In Bytedance AI Lab, as a algorithm engineer. 
