@@ -8,7 +8,8 @@ Megvii-Inc
 zhaozhichen@megvii.com
 
 ### Experience
-__since 2017.07:__ In Megvii Inc (Face++), as a researcher.  
+__since 2018.09:__ In Bytedance AI Lab, as a algorithm engineer. 
+__2017.07-2018.08:__ In Megvii Inc (Face++), as a researcher.  
 __2016.06-2016.10:__ In Toutiao AI Lab, as an intern.  
 __2014.09-2017.07:__ Department of Electronic Engineering in Tsinghua University, as master candidate.  
 __2010.08-2014.07:__ Department of Electronic Engineering in Tsinghua University, for bachelor degree.
