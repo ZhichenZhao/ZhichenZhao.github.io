@@ -2,7 +2,7 @@
 
 Zhichen Zhao   
 赵致辰  
-Megvii-Inc
+Bytedance AI Lab
 
 ### Contact
 zhaozhichen.water@bytedance.com
